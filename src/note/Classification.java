@@ -1,3 +1,5 @@
+//PCCE 기출문제 4번
+
 package note;
 import java.util.Scanner;
 public class Classification {
