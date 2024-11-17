@@ -1,3 +1,4 @@
+// PCCE 기출문제 7번
 package note;
 
 public class Bus {
