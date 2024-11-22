@@ -1,3 +1,4 @@
+// 프로그래머스 추억 점수
 package note;
 
 public class MemoryScore {
