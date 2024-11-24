@@ -12,10 +12,10 @@ public class Dollar {
             // 30 15 26 17 -> 13 17
         // 50 50 100 241
         while(wallet_small<bill_small || wallet_big<bill_big) {
-            if(bill_big>wallet_big) {
+            if(bill_big>wbill_small) {
                 bill_big /=2;
                 answer++;
-            } else if (bill_small>wallet_small) {
+            } else if (bill_small>bill_big) {
                 bill_small /=2;
                 answer++;
             }
